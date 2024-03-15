@@ -5,7 +5,7 @@
 - 🛠 I specialize in implementing diverse **cryptographic algorithms**, including SHA-3 and ED25519 signatures
 - 💊 Master's Degree (PG) in Computer Science from **IIT JAMMU** ( **`CGPA - 8.3/10`** )
 - 🔑 Achieved **Top 2%** in GATE CS 2020 conducted by **IIT Delhi** among 97481 candidates
-- 📫 You can reach out to me via  **rahulkunwar007@gmail.com**
+- 📫 You can reach out to me via  **rahul.kunwar007@gmail.com**
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahulkunwar007&theme=outrun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -16,14 +16,7 @@
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkunwar007&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
 
 
 ### Languages and Tools:
@@ -43,13 +36,10 @@
 
  
 
-[website]: https:// .github.io
-[youtube]: https://www.youtube.com/channel/UCzDN6ON3sJTHi3fP4wlttRQ
-[gmail]: rahulkunwar007@gmail.com
-[linkedin]: https://www.linkedin.com/in/kumar-rahul007/
+
 
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5&theme=matrix)](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahulkunwar007&column=5&theme=matrix)](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=5)
 
 
