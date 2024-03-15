@@ -43,7 +43,7 @@
 
  
 
-[website]: https://pranabnandy.github.io
+[website]: https:// .github.io
 [youtube]: https://www.youtube.com/channel/UCzDN6ON3sJTHi3fP4wlttRQ
 [gmail]: rahulkunwar007@gmail.com
 [linkedin]: https://www.linkedin.com/in/kumar-rahul007/
