@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi 👋, I'm RAHUL KUMAR</b></h1>
 
 
-- 👨‍💻 I am a Software Engineer at 𝑸𝒖𝒂𝒍𝒄𝒐𝒎𝒎 𝑺𝒏𝒂𝒑𝒅𝒓𝒂𝒈𝒐𝒏 (𝑸𝑺𝑫), specializing in a diverse range of 𝑺𝒚𝒔𝒕𝒆𝒎-𝒐𝒏-𝑪𝒉𝒊𝒑 (𝑺𝒐𝑪) platforms.
-- 🛠 I specialize in implementing diverse **cryptographic algorithms**, including SHA-3 and ED25519 signatures.
+- 👨‍💻 I am a Software Engineer at 𝑸𝒖𝒂𝒍𝒄𝒐𝒎𝒎 𝑺𝒏𝒂𝒑𝒅𝒓𝒂𝒈𝒐𝒏 (𝑸𝑺𝑫), specializing in a diverse range of 𝑺𝒚𝒔𝒕𝒆𝒎-𝒐𝒏-𝑪𝒉𝒊𝒑 (𝑺𝒐𝑪) platforms
+- 🛠 I specialize in implementing diverse **cryptographic algorithms**, including SHA-3 and ED25519 signatures
 - 💊 Master's Degree (PG) in Computer Science from **IIT JAMMU** ( **`CGPA - 8.3/10`** )
 - 🔑 Achieved **Top 2%** in GATE CS 2020 conducted by **IIT Delhi** among 97481 candidates
 - 📫 You can reach out to me via  **rahulkunwar007@gmail.com**
